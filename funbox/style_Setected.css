@@ -1,0 +1,31 @@
+.card1.selected,
+.card2.selected,
+.card3.selected{
+    border: 4px solid #D91667;
+}
+
+.weight1.selected,
+.weight2.selected,
+.weight3.selected{
+    background: #D91667;
+}
+
+.tagline1,
+.tagline2{
+    display: none;
+}
+
+.tagline1.selected,
+.tagline2.selected{
+    display: inherit
+}
+
+.taglineInvisible1,
+.taglineInvisible2{
+    display: none;
+}
+
+.taglineInvisible1.selected,
+.taglineInvisible2.selected{
+    display: inherit;
+}
